@@ -38,19 +38,7 @@ Me interesa desarrollar soluciones basadas en datos, especialmente en áreas de 
 
 ## 📊 Proyectos Destacados
 
-🔹 **Análisis de churn de clientes (próximamente)**  
-Análisis de datos para identificar patrones de cancelación y apoyar estrategias de retención.  
-👉 (agregar link)
 
-🔹 **Evaluación de tiendas (análisis de negocio) (próximamente)**  
-Comparación de desempeño de tiendas para apoyar toma de decisiones comerciales.  
-👉 (agregar link)
-
-🔹 **Dashboard en Power BI (próximamente)**  
-Visualización de indicadores clave para análisis de negocio.  
-
-🔹 **Proyecto de datos ambientales (próximamente)**  
-Análisis de datos aplicados a sostenibilidad.
 
 ---
 
