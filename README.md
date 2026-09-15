@@ -9,7 +9,7 @@
 
 Soy Ingeniera en Conservación de Recursos Naturales con formación en Data Science, enfocada en el análisis de datos para generar insights que apoyen la toma de decisiones. 
 
-Me interesa desarrollar soluciones basadas en datos, especialmente en áreas de negocio y sostenibilidad. Actualmente estoy dando pequeños pasos como analista de datos junior y analista de datos medioambientales, con la gran meta de consolidar mi carrera como Científica de Datos en medio ambiente de aquí a 9 años[cite: 6].
+Me interesa desarrollar soluciones basadas en datos, especialmente en áreas de negocio y sostenibilidad. Actualmente estoy dando pequeños pasos como analista de datos junior y analista de datos medioambientales, con la gran meta de consolidar mi carrera como Científica de Datos en medio ambiente de aquí a 9 años.
 
 ---
 
